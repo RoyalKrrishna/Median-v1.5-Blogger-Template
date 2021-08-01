@@ -3546,7 +3546,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         <footer class='sectionInner'>            
           <!--[ Credit ]-->
           <div class='creditInner'>
-            <p>&#169; <span id='getYear'><script>/*<![CDATA[*/ var d = new Date(); var n = d.getFullYear(); document.getElementById('getYear').innerHTML = n; /*]]>*/</script></span> &#8231; <a expr:href='data:blog.homepageUrl.canonical'><data:blog.title/></a>. All Rights Reserved        
+            <p>&#169; <span id='getYear'><script>/*<![CDATA[*/ var d = new Date(); var n = d.getFullYear(); document.getElementById('getYear').innerHTML = n; /*]]>*/</script></span> &#8231; <a expr:href='data:blog.homepageUrl.canonical'><data:blog.title/></a>. All Rights Reserved</p>        
     <!--[ Back top button ]-->
 <div class='toTop' onclick='window.scrollTo({top: 0});'><b:include name='arow-up-icon'/></div>
    </div>
