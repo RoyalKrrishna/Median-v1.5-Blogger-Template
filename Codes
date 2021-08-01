@@ -2227,26 +2227,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                     <b:widget-settings>
                       <b:widget-setting name='content'>&lt;li id=&#39;sliderDiv1&#39; class=&#39;sliderDiv&#39;&gt;
   &lt;!--[ add the content right below ]--&gt;
-  &lt;div class=&#39;sliderImg lazy&#39; data-bg=&#39;https://1.bp.blogspot.com/-yMSpgmjn390/YF1Q5CvGIcI/AAAAAAAAQlg/59LxYemhlyEbbhqlpdfypu5OXRav4t-JgCNcBGAsYHQ/s0/slider-1-min.png&#39;&gt;&lt;/div&gt;
+  &lt;a class=&#39;sliderImg lazy&#39; href=&#39;https://1.bp.blogspot.com/-yMSpgmjn390/YF1Q5CvGIcI/AAAAAAAAQlg/59LxYemhlyEbbhqlpdfypu5OXRav4t-JgCNcBGAsYHQ/s0/slider-1-min.png&#39; data-bg=&#39;https://1.bp.blogspot.com/-yMSpgmjn390/YF1Q5CvGIcI/AAAAAAAAQlg/59LxYemhlyEbbhqlpdfypu5OXRav4t-JgCNcBGAsYHQ/s0/slider-1-min.png&#39; aria-label=&#39;Slider&#39;&gt;&lt;/a&gt;
 
   &lt;div class=&#39;sliderSnapper&#39;&gt;&lt;/div&gt;
 &lt;/li&gt;
 &lt;li id=&#39;sliderDiv2&#39; class=&#39;sliderDiv&#39;&gt;
   &lt;!--[ add the content right below ]--&gt;
-  &lt;a class=&#39;sliderImg lazy&#39; href=&#39;https://shrofftemplates.blogspot.com&#39; data-bg=&#39;https://1.bp.blogspot.com/-dGxoQ9YQYsM/YF1Q71CYmII/AAAAAAAAQlo/0scDqH__JA87HT6QpRcFZt9Y7CucundjQCNcBGAsYHQ/s0/slider-2-min.png&#39; aria-label=&#39;Slider&#39;&gt;&lt;/a&gt;
+  &lt;a class=&#39;sliderImg lazy&#39; href=&#39;https://1.bp.blogspot.com/-dGxoQ9YQYsM/YF1Q71CYmII/AAAAAAAAQlo/0scDqH__JA87HT6QpRcFZt9Y7CucundjQCNcBGAsYHQ/s0/slider-2-min.png&#39; data-bg=&#39;https://1.bp.blogspot.com/-dGxoQ9YQYsM/YF1Q71CYmII/AAAAAAAAQlo/0scDqH__JA87HT6QpRcFZt9Y7CucundjQCNcBGAsYHQ/s0/slider-2-min.png&#39; aria-label=&#39;Slider&#39;&gt;&lt;/a&gt;
 
   &lt;div class=&#39;sliderSnapper&#39;&gt;&lt;/div&gt;
 &lt;/li&gt;
 &lt;li id=&#39;sliderDiv3&#39; class=&#39;sliderDiv&#39;&gt;
   &lt;!--[ add the content right below ]--&gt;
-  &lt;a class=&#39;sliderImg lazy&#39; href=&#39;https://raushandesign.blogspot.com&#39; data-bg=&#39;https://1.bp.blogspot.com/-vK7BQxXeYnk/YF1Q9MVgZ8I/AAAAAAAAQls/OanP_Tl4sd4616Y1RaD2JPA_UOWtMkDAQCNcBGAsYHQ/s0/slider-3-min.png&#39; aria-label=&#39;Slider&#39;&gt;&lt;/a&gt;
-
-  &lt;div class=&#39;sliderSnapper&#39;&gt;&lt;/div&gt;
-&lt;/li&gt;
-&lt;li id=&#39;sliderDiv4&#39; class=&#39;sliderDiv&#39;&gt;
-  &lt;!--[ add the content right below ]--&gt;
-  &lt;a class=&#39;sliderImg lazy&#39; href=&#39;https://smarttechmukesh.xyz&#39; data-bg=&#39;https://1.bp.blogspot.com/-Q_BGkGuukLE/YF1Q67reH4I/AAAAAAAAQlk/jXe6LIyIjkkNpJu7ShtztoUWV4JylmCkgCNcBGAsYHQ/s0/slider-4-min.png&#39; aria-label=&#39;Slider&#39;&gt;&lt;/a&gt;
-
+  &lt;a class=&#39;sliderImg lazy&#39; href=&#39;https://1.bp.blogspot.com/-vK7BQxXeYnk/YF1Q9MVgZ8I/AAAAAAAAQls/OanP_Tl4sd4616Y1RaD2JPA_UOWtMkDAQCNcBGAsYHQ/s0/slider-3-min.png&#39; data-bg=&#39;https://1.bp.blogspot.com/-vK7BQxXeYnk/YF1Q9MVgZ8I/AAAAAAAAQls/OanP_Tl4sd4616Y1RaD2JPA_UOWtMkDAQCNcBGAsYHQ/s0/slider-3-min.png&#39; aria-label=&#39;Slider&#39;&gt;&lt;/a&gt;
+                        
   &lt;div class=&#39;sliderSnapper&#39;&gt;&lt;/div&gt;
 &lt;/li&gt;</b:widget-setting>
                     </b:widget-settings>
