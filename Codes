@@ -3546,9 +3546,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         <footer class='sectionInner'>            
           <!--[ Credit ]-->
           <div class='creditInner'>
-            <p>&#169; <span id='getYear'><script>/*<![CDATA[*/ var d = new Date(); var n = d.getFullYear(); document.getElementById('getYear').innerHTML = n; /*]]>*/</script></span> &#8231; <a expr:href='data:blog.homepageUrl.canonical'><data:blog.title/></a>. All Rights Reserved <!-- Don't Remove This Blogger Template Provider Footer Credit. This Credit Not Showing On Your Blog. -->
-<span class='creator'>Design By <a href='https://www.smarttechmukesh.xyz'>Smart Tech Mukesh</a></span></p>
-              
+            <p>&#169; <span id='getYear'><script>/*<![CDATA[*/ var d = new Date(); var n = d.getFullYear(); document.getElementById('getYear').innerHTML = n; /*]]>*/</script></span> &#8231; <a expr:href='data:blog.homepageUrl.canonical'><data:blog.title/></a>. All Rights Reserved        
     <!--[ Back top button ]-->
 <div class='toTop' onclick='window.scrollTo({top: 0});'><b:include name='arow-up-icon'/></div>
    </div>
